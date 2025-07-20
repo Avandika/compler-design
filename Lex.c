@@ -2,7 +2,7 @@
 #include<string.h>
 int main()
 {
-    int i,j;
+    int i,j; 
     char exp[20],dig[20],id[20],ch;
     printf("Enter the expression : ");
     scanf("%s",exp);
